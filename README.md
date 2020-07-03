@@ -1,6 +1,6 @@
 # vue-notes
 
-> A Vue.js project
+> A Vue.js very simple todo list with indexedDB and bootstrap.
 
 ## Build Setup
 
